@@ -5,8 +5,8 @@
  * @version 3.0.0
  * @invite inviteCode
  * @authorId 407348579376693260
- * @source https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js
- * @updateUrl https://raw.githubusercontent.com/respecting/NitroPerks/main/NitroPerks.plugin.js
+ * @source https://raw.githubusercontent.com/lem6ns/NitroPerks/main/NitroPerks.plugin.js
+ * @updateUrl https://raw.githubusercontent.com/lem6ns/NitroPerks/main/NitroPerks.plugin.js
  */
 
  module.exports = class NitroPerks {
